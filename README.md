@@ -1,2 +1,2 @@
-# Random-Quote-generater
-Random-Quote generater
+# TheQuote
+Task 1: Random Quote Generator
